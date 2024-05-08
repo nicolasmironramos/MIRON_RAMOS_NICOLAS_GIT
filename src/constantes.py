@@ -1,3 +1,4 @@
+# Se importan las librerías pertinentes
 import re
 
 # Patron que busca caracteres son letras del alfabeto inglés:

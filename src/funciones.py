@@ -1,7 +1,7 @@
-# IMPORTACIONES
+# Imports pertinentes:
 import re 
 
-# SE IMPORTA EMOJI PARA DATOS FUTUROS:
+# Se importa 'emoji' para futurois usos:
 # import emoji
 
 # Función que elimina emojis:
