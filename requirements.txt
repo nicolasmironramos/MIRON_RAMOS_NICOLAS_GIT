@@ -1,0 +1,16 @@
+stopwordsiso==0.6.1
+pandas==1.3.5
+#spacy-legacy==3.0.12
+#spacy-loggers==1.0.5
+spacy==3.7.2
+nltk==3.8.1
+scikit-learn==1.0.2
+scikit-plot==0.3.7
+pandas==1.3.5
+matplotlib==3.5.3
+imbalanced-learn==0.12.0
+imblearn==0.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl#sha256=61e6e5530941f5880166855f09f60d7e6ba79ec1e8e45f96244bdb1eb169eb1d
+teradatasql==20.0.0.7
+tqdm==4.66.2
